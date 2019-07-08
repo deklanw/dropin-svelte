@@ -41,7 +41,9 @@ todo
 Easily store something in localstorage.
 
 #### Implementations:
-todo
+See https://twitter.com/Rich_Harris/status/1126688034223579140
+- Rich Harris v1 https://codesandbox.io/s/630402kl3
+- Rich Harris v2 (composable?) https://codesandbox.io/s/mqrl625xpj
 
 ## Clipboard
 Read and write to user's clipboard.
