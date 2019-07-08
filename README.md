@@ -79,7 +79,7 @@ todo
 Logs during component's lifecycle methods
 
 #### Implementations:
-todo
+- by deklanw https://svelte.dev/repl/12a16b6f3ce44799b1775adddabd2a63?version=3.6.5
 
 ## Debounce function
 Create a debounced version of a function. Like https://github.com/streamich/react-use/blob/master/docs/useDebounce.md
