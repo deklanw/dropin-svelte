@@ -11,7 +11,7 @@ Avoid examples which involve proper nouns like Redux or Firebase, and/or which s
 Perform action when user clicks outside of component.
 
 #### Implementations:
-todo
+- https://svelte.dev/repl/5dee032dc2fc44b0a1a4572b48ab2be5?version=3.6.5
 
 ## Media Query
 e.g. simply isScreenWide? 
